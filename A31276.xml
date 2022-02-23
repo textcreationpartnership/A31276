@@ -1,0 +1,520 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of Latin and English books in folio and quarto. To be sold by auction, on Thursday next the 15th of March 1693/4. at four of the clock in the afternoon, at Mr. Husseys the Flower de Luce in Little Britain, near the Pump. Catalogues may be had at Mr. Welds at the Crown betweixt the two Temple-Gates in Fleet-street, and at the place of sale. Conditions of sale. I. That he bids most is the buyer; but if a difference arise the book or books shall be again exposed. II. That all persons not sufficiently known to the undertaker give earnest. III. That the buyers fetch away within two days after the sale is ended, paying ready money, and likewise potteridge. The books belonging to the liberary in 8⁰ 12⁰ 24⁰ will be sold by retail every afternoon before the sale by auction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31276</idno>
+            <idno type="STC">Wing C1341A</idno>
+            <idno type="STC">ESTC R213133</idno>
+            <idno type="EEBO-CITATION">99825634</idno>
+            <idno type="PROQUEST">99825634</idno>
+            <idno type="VID">30020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1756:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of Latin and English books in folio and quarto. To be sold by auction, on Thursday next the 15th of March 1693/4. at four of the clock in the afternoon, at Mr. Husseys the Flower de Luce in Little Britain, near the Pump. Catalogues may be had at Mr. Welds at the Crown betweixt the two Temple-Gates in Fleet-street, and at the place of sale. Conditions of sale. I. That he bids most is the buyer; but if a difference arise the book or books shall be again exposed. II. That all persons not sufficiently known to the undertaker give earnest. III. That the buyers fetch away within two days after the sale is ended, paying ready money, and likewise potteridge. The books belonging to the liberary in 8⁰ 12⁰ 24⁰ will be sold by retail every afternoon before the sale by auction.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Identified on film as Wing C1317 (number cancelled).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sale_catalogue">
+            <pb facs="tcp:30020:1" rendition="simple:additions"/>
+            <pb facs="tcp:30020:1" rendition="simple:additions"/>
+            <head>A CATALOGUE Of Latin and Engliſh Books in Folio and Quarto. To be Sold by AUCTION, On <hi>Thursday</hi> next the 15th of <hi>March</hi> 1693/4. at Four of the Clock in the afternoon, at Mr. <hi>Huſſeys</hi> the <hi>Flower de Luce</hi> in <hi>Little Britain,</hi> near the <hi>Pump.</hi>
+            </head>
+            <p>Catalogues may be had at Mr. <hi>Welds</hi> at the Crown betwixt the two <hi>Temple-Gates</hi> in <hi>Fleet-ſtreet,</hi> and at the Place of Sale.</p>
+            <div type="conditions_of_sale">
+               <list>
+                  <head>Conditions of Sale.</head>
+                  <item>I. That he that bids moſt is the Buyer; but if a difference ariſe the Book or Books ſhall be again expoſed.</item>
+                  <item>II. That all Perſons not ſufficiently known to the Undertaker give earneſt.</item>
+                  <item>III. That the Buyers fetch away within two days after the Sale is ended, paying ready Money, and likewiſe Potteridge.</item>
+               </list>
+               <p>The Books belonging to the Liberary in 8<hi rend="sup">o.</hi> 12<hi rend="sup">o.</hi> 24<hi rend="sup">o.</hi> will be ſold by retail every Afternoon before the Sale by AUCTION.</p>
+            </div>
+            <div type="lists_of_books">
+               <p>
+                  <list>
+                     <head>Libri Theologici in <hi>Folio.</hi>
+                     </head>
+                     <item>1 MAldonatus in IV. Evang.</item>
+                     <item>2 Prideaux 22. Lectiones</item>
+                     <item>3 Davenantii in Epiſt. ad Coloſſenſes—</item>
+                     <item>4 — determinationes —</item>
+                     <item>5 Biblia Junii &amp; Tremelii —<hi>Lond</hi>
+                     </item>
+                     <item>6 De Dominis de repub. Eccleſiaſtica</item>
+                     <item>7 Bib. interlinearia A. Montani. —</item>
+                     <item>8 Hoſpinianus de origine Feſtorum</item>
+                     <item>9 Iraenei opera Gr. Lat. Gallaſii — Epiphanii opera Lat. —</item>
+                     <item>10 Clementis Alexandrini opera —</item>
+                     <item>11 Antiphonarium juxta breviarium romanum — <hi>Lut. Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s</hi> 1670</item>
+                     <item>12 Suarez contra Regem Jacobum</item>
+                     <item>13 S. Cypriani opera—<hi>Oxon.</hi> 1682</item>
+                     <item>14 F. Junii Opera II. Vol. —</item>
+                     <item>15 Ravenelli Bibliotheca II Vol. —</item>
+                     <item>16 Calvini Inſtitutio—in V. libros Moſis —</item>
+                     <item>18—in Pſalmos—</item>
+                     <item>19—in Iſaiam—</item>
+                     <item>20—in Jeremiam &amp; Danielem —</item>
+                     <item>21—in 12 minores Prophetas—</item>
+                     <item>22—harmonia Evangeliſta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m—</item>
+                     <item>23—in acta Apoſtolorum—</item>
+                     <item>24 Chem. &amp; Lyceri harmo. in II. vol.</item>
+                     <item>25 Poli Synopſis V. vol.—</item>
+                     <item>26 D. Athanaſii Opera—</item>
+                     <item>27 S. Th. Aquinatis ſumma theologiae</item>
+                     <item>28 Stella in Lucam—</item>
+                     <item>29 D. Hammond on N. Teſtament —</item>
+                     <item>30 Becans Works II. vol. —</item>
+                     <item>31 Gill on the Creed—</item>
+                     <item>32 Bp. Taylors liberty of Prophecy—</item>
+                     <item>33 Beards Theat. of Gods Judgments</item>
+                     <item>43 Gatakers Sermons—</item>
+                     <item>35 Dr. Tho. Jackſons Works —</item>
+                     <item>36 Ainſworths Works—</item>
+                     <item>37 Bp. Andrews Sermons —</item>
+                     <item>38 Bp. Pearſon on the C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eed —</item>
+                     <item>39 Fulk on the themiſh Teſtame<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t —</item>
+                     <item>40 Hookers Politie —</item>
+                     <item>41 A. B. Cranmer againſt Gardiner —</item>
+                     <item>42 Bp. Sanderſons Sermons —</item>
+                     <item>43 Dr, Tho. Taylors Works —</item>
+                     <item>44 Hutcheſon on John—</item>
+                     <item>45 L'Eſtrange of the Liturgies—</item>
+                     <item>46 Charnocks Works 2. Vol. —</item>
+                     <item>47 Zanchii opera 3 vol. —</item>
+                  </list>
+                  <pb n="2" facs="tcp:30020:2"/>
+                  <list>
+                     <head>Libri Theologici in <hi>4<hi rend="sup">o</hi>.</hi>
+                     </head>
+                     <item>1 CAlixius de vera religione 1687 —</item>
+                     <item>2 Dalaeus de Poenis <hi>&amp;c.</hi> —</item>
+                     <item>3 Eſtius in difficil. loca S Scripturae —</item>
+                     <item>4 Bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> chii mellificium theolog. 1666. —</item>
+                     <item>5 Majeomonidae de Sacrificijs liber—</item>
+                     <item>6 Herbert de cauſis etrorum —</item>
+                     <item>7 Biſterfeldius contra Crellium—</item>
+                     <item>8 Biblia Juni' &amp; Tremelij —</item>
+                     <item>9 Vorſtius in epiſtolas apoſtolicas—</item>
+                     <item>10 Ludolphi vita Chriſti—</item>
+                     <item>11 Concordantia Bibliorum—</item>
+                     <item>12 Corpus confeſſionum—</item>
+                     <item>13 Sib. Lubbertus de I. Chriſto Serva<g ref="char:EOLhyphen"/>tore, con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ra Socinum—</item>
+                     <item>14 Wren loca S. Scripturae adſerta con<g ref="char:EOLhyphen"/>tra ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cch. Racov—</item>
+                     <item>15 Hoornbeck ſocinianiſmus confutatus</item>
+                     <item>16 Ep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c. Mortoni antidotum—</item>
+                     <item>17 S. Cyrilli Hieroſol. catecheſis, gt. lat.</item>
+                     <item>18 John Georg. Groſij theat. blblicum</item>
+                     <item>19 Ameſius in Pſalmos —</item>
+                     <item>20 J. Cameronis myrotheſium evangel</item>
+                     <item>21 Glaſſij phylologia Sacra—</item>
+                     <item>22 Prideaux lectiones decem.—</item>
+                     <item>23 Cocceius contra Equitem Pelonum—</item>
+                     <item>24 Heinſius in novum Teſtamentum—</item>
+                     <item>25 Pſlacheri a naliſis typica—</item>
+                     <item>26 St<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in Lucam—</item>
+                     <item>27 Hammond diſſertationes. IV —</item>
+                     <item>28 Mede ciavis apocalyptica—</item>
+                     <item>29 N. Teſtamentum turcice, per Seam.</item>
+                     <item>30 Prideaux faſciculus controverſiarum</item>
+                     <item>31 Tullij juſtificatio paulima. —</item>
+                     <item>32 Voſſij hiſtoria pelagiana—</item>
+                     <item>33 —theſes theolog. &amp; hiſtoricae —</item>
+                     <item>34 Cartwrightus in proverbia Salomoni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </item>
+                     <item>35 Lutheri loci commues—</item>
+                     <item>36 Fulleri miſcellanea—</item>
+                     <item>37 Abbot de gratia &amp; perſever Sanctor.</item>
+                     <item>38 Epiſc. Mortonus de euchariſtia —</item>
+                     <item>39 Ignatij epiſtolae grec. lat. editae per A. E. Uſſerium Oxon. 1623 —</item>
+                     <item>40 Chemnitij Harmonia. II Vol. —</item>
+                     <item>41 Ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>herſors de divina gratia—</item>
+                     <item>42 Andrews tortura Torti—</item>
+                     <item>43 Ameſius in Pſalmos—</item>
+                     <item>44 Reformatio legum eccleſiaſt. —</item>
+                     <item>45 Liber Pſalmorum arab. lat. —</item>
+                     <item>46 Regis Jacobi declaratio pro jure regio</item>
+                     <item>48 Mortonus de authoritate Principum</item>
+                     <item>49 Bertramus in Mattheum —</item>
+                     <item>50 Saravia de gradibus miniſtrorum—</item>
+                     <item>51 Scha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pij curſus theologicus —</item>
+                     <item>52 M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſlae pro Sacerdotibus in Anglia—</item>
+                     <item>53 Balovini caſus conscientiae—</item>
+                     <item>54 Cartwrightus in Proverbia —</item>
+                     <item>55 Duportus in Pſalmos gr. lat. —</item>
+                     <item>56 Piſcator in N. Teſtament II Vol.—</item>
+                     <item>57 Lightfoot in Johannem —</item>
+                     <item>58 Pearſonij opera poſthuma —</item>
+                     <item>59 Uſſerij Gotteſchalcus —</item>
+                     <item>60 Arrowſmith tacttica Sacra —</item>
+                     <item>61 Scharpij ſymphonia Prophetarum</item>
+                     <item>62 Dan. Feſſelij adverſaria Sacra —</item>
+                     <item>63 Maccovij loci communes —</item>
+                     <item>64 G. Calixti IV. Evangeliorum concor.</item>
+                     <item>65 Alabaſtri <hi>Ecce ſponſus venit.</hi> —</item>
+                     <item>66 Judicium Synodi habitae Dordrechti</item>
+                     <item>67 Ameſij cotonis &amp; de conſcientia —</item>
+                     <item>68 Vol. of curious Tracts —</item>
+                     <item>69 Vol. of Sermons and other things</item>
+                     <item>70 Weemſe chriſtian Synagogue —</item>
+                     <item>71 — of Gods Image in Man —</item>
+                     <item>72 Contin. morn. exerciſe Cripplegate</item>
+                     <item>73 Goodwin of Baptiſm—</item>
+                     <item>74 Cotton, Marſhal and Homes of Bapt.</item>
+                     <item>75 A diſpute of eng. Popiſh Ceremonies</item>
+                     <item>76 Browus Jerubaal —</item>
+                     <item>77 Specimen controverſiarum belgicar.</item>
+                     <item>78 Cenſura in confeſſionem Remonſtrat.</item>
+                     <item>79 Reſponſio neceſſatia ad contra —Remonſtrantium contrar declaration. —</item>
+                     <item>80 Cary I on Job. XII Volumes —</item>
+                     <item>81 Several pieces of D. Hammens Works</item>
+                     <item>82 Sparrows Canons —</item>
+                     <item>83 Bale's Image of both Churches —</item>
+                     <item>84 Sir H. Vanes Meditations—</item>
+                     <item>85 Abernethy Phyſick for the Soul —</item>
+                     <item>86 Clements epiſtle to the Corinthians.</item>
+                     <item>87 Hyperius practice of preaching —</item>
+                     <item>88 Greenhil on Ezekiel in IV Volumes</item>
+                     <item>89 Crellius of God the Father —</item>
+                     <item>90 Epiſc. Andrews opuſcula poſthuma.</item>
+                     <item>91 Alſtedij theologia catechetica —</item>
+                     <item>92 Cawdry and Palmer on the Sabbath</item>
+                     <item>93 MSS Theologica in 20 decades Mar.</item>
+                     <item>94 Malone's reply to Uſhers anſwer —</item>
+                     <item>95 Reaſon and Religion —</item>
+                     <item>96 Proteſtancy without principles —</item>
+                  </list>
+                  <pb n="3" facs="tcp:30020:2"/>
+                  <list>
+                     <head>Libri Miſcellanei in Folio.</head>
+                     <item>1 BAconi novum organum—</item>
+                     <item>2 Seldeni mare clauſum—</item>
+                     <item>3 Polyd. Virgillij hiſt. anglica. —</item>
+                     <item>4 Baylij chronologia—</item>
+                     <item>5 Loydij dictionarium poeticum —</item>
+                     <item>6 Ed. Wotton us de different Animaliam</item>
+                     <item>7 Zoſimi hiſtoria. <hi>&amp;c.</hi> —</item>
+                     <item>8 Luciani opera —</item>
+                     <item>9 Catalogus bibliothecae bodleianae—</item>
+                     <item>10 Geſneri dictionarium gr. lat. —</item>
+                     <item>11 Mydorgij Sectiones conicae —</item>
+                     <item>12 Vitruvij architectura —</item>
+                     <item>13 Senecae opera —</item>
+                     <item>14 Helvici chronologia —</item>
+                     <item>15 Camdeni Britannia—</item>
+                     <item>16 Spelmanni gloſſarium —</item>
+                     <item>17 Langij polyanthea —</item>
+                     <item>18 Scapulae lexicon. inter fol. II Vol</item>
+                     <item>19 Tho. Mori opera —</item>
+                     <item>20 Geſnerus de animalibus. fig. —</item>
+                     <item>21 Joſephi opera —</item>
+                     <item>22 S. Pufendorfi de rebus ſuecicis libri XXVI. Ultrajecti. 1685 —</item>
+                     <item>23 Suarez Metaphyſica—</item>
+                     <item>24 Euſebij hiſtoria eccleſiaſtica—</item>
+                     <item>25 Dr. Caves lives of the Apoſtles—</item>
+                     <item>26 Guillims Heraldry coloured —</item>
+                     <item>27 Madam Philips poems —</item>
+                     <item>28 Minſheus Dictionar. of IX Tongues</item>
+                     <item>29 Burnets hiſt. of Reformati. 1ſt. Vol.</item>
+                     <item>30 Monro's expedition—</item>
+                     <item>31 The hiſtory of Cardinals—</item>
+                     <item>32 Biſhop Wilkins real character—</item>
+                     <item>33 Curia politiae or the apologie for ſe<g ref="char:EOLhyphen"/>veral Princes figures—</item>
+                     <item>34 Rathbourn's Surveyor —</item>
+                     <item>35 The work of King James —</item>
+                     <item>36 Fullers Church Hiſtory —</item>
+                     <item>37 Fullers piſgat ſiight of Paleſtine full of Mapps —</item>
+                     <item>38 Fullers hloy war &amp; holy ſtate togeth.</item>
+                     <item>39 Paralellum O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ivae &amp; Olivarij —</item>
+                     <item>40 Annals of K. James and K. Charles the firſt —</item>
+                     <item>41 Hiſtory of Philip de Comines—</item>
+                     <item>42 Sir George Wheelers Travels —</item>
+                     <item>43 Og<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lby's Roads —</item>
+                     <item>44 Ortelius Theatre of the World—</item>
+                     <item>45 Epicedia in obitum Henrietae Mariae</item>
+                     <item>46 Epicedia in obitum G. D. Albemarliae</item>
+                     <item>47 A retroſpect into the Kings Reve<g ref="char:EOLhyphen"/>nue annexcd to the Crown—</item>
+                     <item>48 The Sybills in 12 fine Prints—</item>
+                     <item>49 Marvels Poems bound up with others</item>
+                     <item>50 A Vol. of curious Tracts—</item>
+                     <item>51 Wolfius in M. T. Ciceronis Officia</item>
+                     <item>52 The Engliſh Atlas Vol. IV. con<g ref="char:EOLhyphen"/>taining the deſcription of 17 Provin<g ref="char:EOLhyphen"/>ces of the low Countries or Nether<g ref="char:EOLhyphen"/>lands, by R. Peers. Ruled Coloured, and curiouſly Bound. Printed at the Theatre at Oxford. 1682.</item>
+                  </list>
+                  <list>
+                     <head>Libri Miſcellanei in <hi>4<hi rend="sup">o.</hi>
+                        </hi>
+                     </head>
+                     <item>1 REgij Phyſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>logia naturalis —</item>
+                     <item>2 Boyle tentam a Phyſiologica —</item>
+                     <item>3 Is. Voſij obſervationes—</item>
+                     <item>4 Gaſſendi metaphyſica—</item>
+                     <item>5 Goad aſtro-meteorologica—</item>
+                     <item>6 Lambardus de priſcis Anglorum le<g ref="char:EOLhyphen"/>gibus. Lat. Saxon—</item>
+                     <item>7 Buxtorfijlex con chaldaic. &amp; Syariac.</item>
+                     <item>8 Raei philoſophia naturalis—</item>
+                     <item>9 Harveij exercitat de generatione—</item>
+                     <item>10 Lansbergij chronologia—</item>
+                     <item>11 Salmaſij eqiſtolae—</item>
+                     <item>12 Pancerollus de rebus memorabilibus</item>
+                     <item>13 Plautus notis Lambini—</item>
+                     <item>14 Tabulae long. ac lat. Stellarum fixa<g ref="char:EOLhyphen"/>rum ex obſervat. Ulugh Beighi. a<g ref="char:EOLhyphen"/>rab. lat. ed. per Tho. Hyde.—</item>
+                     <item>14 Gaſſendi aſtronomia.—</item>
+                     <item>15 Philoſophia ad mentem I. Scoti.—</item>
+                     <item>16 Catalogus librorum in Bibl. Bodl.</item>
+                     <item>17 Mart. Schoockius de Bonis vulgo ec<g ref="char:EOLhyphen"/>cleſiaſticis. dictis—</item>
+                     <item>18 Scheineri optica—</item>
+                     <item>19 Scheilbleri metaphyſica—</item>
+                     <item>20 Hues de globis—</item>
+                     <item>21 Chuverij epitome hiſtoriarum — geographia —</item>
+                     <item>22 Catalogus teſtium veritatis —</item>
+                     <item>23 Benj. Priolus de rebus gallicis—</item>
+                     <item>24 Stephani dictionatium poeticum —</item>
+                     <item>25 N. Cl. Peireſc vita per Gaſſendum</item>
+                     <item>26 Baranzani uranoſcopia—</item>
+                     <item>27 Friſij bibliotheca philoſophorum—</item>
+                     <item>28 Pezelij mellif<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ium hiſtorie. II Vol.</item>
+                     <item>29 Rog. Bacconis p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ctiv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>—</item>
+                     <pb n="4" facs="tcp:30020:3"/>
+                     <item>30 Gilberti Philoſophia nova—</item>
+                     <item>31 Severini hiſt. eccleſiaſtica—</item>
+                     <item>32 Fromondi meteorogia —</item>
+                     <item>33 Leonis ab Aitzema hiſtoria pacis a foederatis Belgis —</item>
+                     <item>34 Des Chartes muſicae compend—</item>
+                     <item>35 Ryff geometria—</item>
+                     <item>36 Pagnini inſtitutio hebraica—</item>
+                     <item>37 Catalogus liborum R. Scot—</item>
+                     <item>38 P. Gaſſendus de apparente magni<g ref="char:EOLhyphen"/>tudine ſolis humilis &amp; ſublimis —</item>
+                     <item>39 Ferrarij nomenclator ſyriacus—</item>
+                     <item>40 Magini geographia—</item>
+                     <item>41 Magiri phyſialogia—</item>
+                     <item>42 I. Rhodius de Aſia—</item>
+                     <item>43 Aitſingeri pantaplus Regnor. mundi.</item>
+                     <item>44 Stierij philoſophia—</item>
+                     <item>45 Dom. Palladij Sorani epigram—</item>
+                     <item>46 Parkhurſti epigramita —</item>
+                     <item>47 Camdeni Brittannia—</item>
+                     <item>48 Rami arithmetica &amp; geometria —</item>
+                     <item>49 Barlow de Deo—</item>
+                     <item>50 Alvarus de inſtitut. grammatica—</item>
+                     <item>51 Cauſinus de eloqeutia —</item>
+                     <item>52 Palladius de gentibus Indiae &amp; Brag<g ref="char:EOLhyphen"/>manibus gr. lat. —</item>
+                     <item>53 Itnera mundi, Abrahamo Periſtol. heb. lat. ed. per Hyde. Oxon 1691.</item>
+                     <item>54 Faber in immagines Illuſtrium —</item>
+                     <item>55 Sch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fferus de milita navili —</item>
+                     <item>56 Heereboord meletemata—</item>
+                     <item>57 Des Chartes princip. philoſophiae—</item>
+                     <item>58 Gall laeus ſyſtema mundi—</item>
+                     <item>59 Duns Scoti philoſophia naturalis—</item>
+                     <item>60 Ciceronis opera. II Vol. —</item>
+                     <item>61 Stephani dictionar. poeticum —</item>
+                     <item>62 Gaſſendi vita Epicuri—</item>
+                     <item>63 Clem. a Monte Lybeo Londinum —</item>
+                     <item>64 Schroteri reſolut. difficilium legum—</item>
+                     <item>65 Vaſquij illuſtres controverſiae—</item>
+                     <item>66 Cluverii epitome hiſtoriarum—</item>
+                     <item>67 Hottingeri theſaurus philologicus—</item>
+                     <item>68 Crineſij gymnaſium chaldaicum—</item>
+                     <item>69 Seberi argus Homericus—</item>
+                     <item>70 Hobbs contra geometriam Walliſij</item>
+                     <item>71 Des Cartes meditationes—</item>
+                     <item>72 Regij fundamenta phyſices—</item>
+                     <item>73 A Manſvelt contra theologo-politic—</item>
+                     <item>74 Petronius Arbiter omnibus commen.</item>
+                     <item>75 Sigonij hiſtoria Italiae —</item>
+                     <item>76 Twini antiquitates Univerſit. Oxon.</item>
+                     <item>72 Lambinus in Horatium —</item>
+                     <item>78 Voſſius de natura rhetoricae—</item>
+                     <item>79 Prideaux lectiones novem—</item>
+                     <item>10 Crakanthorpi logicae optima editio</item>
+                     <item>81 Warraeus de Scriptoribus Hyberniae</item>
+                     <item>82 Wierus de preſtigijs Demonum—</item>
+                     <item>83 Delrij diſquiſitiones magicae. III Vol.</item>
+                     <item>84 Ovidij epiſtole comment. antiquis—</item>
+                     <item>85 Beverovicius de vitae termino—</item>
+                     <item>86 Ftromondi meteorogia —</item>
+                     <item>87 White de mundo—</item>
+                     <item>89 Muſae cantabrigienſes Wil. &amp; Mariae</item>
+                     <item>89 Marſton. Moor—</item>
+                     <item>90 Britannia rediviva—</item>
+                     <item>100 Inauguratio oliveriana —</item>
+                     <item>101 Boyls experiment Philoſ. II Vol.</item>
+                     <item>102 Several pieces of D. Pierces together</item>
+                     <item>103 Godwins Catalogue of Engliſh Bps</item>
+                     <item>104 Vol of Lives, Travels; <hi>&amp;c.</hi> —</item>
+                     <item>105 Vol, of Tracts. 106 Another Vol.</item>
+                     <item>147 Vol. of XI Sermons—</item>
+                     <item>108 Vol. of Tracts about Baptiſm—</item>
+                     <item>109 St. Peters Supremacy—</item>
+                     <item>110 Vol. of Tracts of Church diſcipline</item>
+                     <item>111 J. Goodwin on the Sent. upon K. C.</item>
+                     <item>112 Treatiſe of taxes and contributions</item>
+                     <item>113 Div. &amp; Phil. deſect. by a mad man</item>
+                     <item>114 Miltons tetrachordon—</item>
+                     <item>115 Ed. Brerewood de ponderibus—</item>
+                     <item>116 Detect. of actions of M. Q. of Scots</item>
+                     <item>117 Gab. Harveij Smithus —</item>
+                     <item>118 Rex redux—</item>
+                     <item>119 Pemel of the nature of Simples—</item>
+                     <item>120 Carleton of Tithes —</item>
+                     <item>121 Atterſol pathway to Canaan—a Coopers Anatomy of a Chriſtian—</item>
+                     <item>122 Hakewils liberty of the Subject &amp;c.</item>
+                     <item>123 Swans ſpeculum mundi—</item>
+                     <item>124 Bernards Ter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nce lat. eng—</item>
+                     <item>125 Gunters works—</item>
+                     <item>126 Field of the Church—</item>
+                     <item>127 Herodians imperial Hiſtory —</item>
+                     <item>128 Vol. of Sermons, and other things.</item>
+                     <item>129 Vol of Sermons. <hi>&amp;c.</hi> —</item>
+                     <item>130 Vol. of Tracts. —</item>
+                     <item>131 Blundevils log. with other things.</item>
+                     <item>132 Vol. of very curious Tracts —</item>
+                     <item>133 The Grecian Story —</item>
+                     <item>134 Sibbs returning Backſlider—</item>
+                     <trailer>FINIS.</trailer>
+                  </list>
+               </p>
+               <pb facs="tcp:30020:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
